@@ -120,7 +120,7 @@ Slide:
 * Un motor de videojuego es un término que hace referencia a una serie de rutinas de programación que permiten el diseño, la creación y la representación de un videojuego.<!-- .element: class="fragment" data-fragment-index="1"--> 
 * Del mismo modo existen motores de juegos que operan tanto en consolas de videojuegos como en sistemas operativos. <!-- .element: class="fragment" data-fragment-index="2"-->
 * La funcionalidad básica de un motor es proveer al videojuego de un motor de renderizado para los gráficos 2D y 3D, motor físico o detector de colisiones, sonidos, scripting, animación, inteligencia artificial, redes, streaming, administración de memoria y un escenario gráfico.<!-- .element: class="fragment" data-fragment-index="3"-->
-* Fuente:<!-- .element: class="fragment" data-fragment-index="4"-->[Wikipedia](http://es.wikipedia.org/wiki/Motor_de_videojuego)<!-- .element: class="fragment" data-fragment-index="4"-->
+* [Fuente](http://es.wikipedia.org/wiki/Motor_de_videojuego)<!-- .element: class="fragment" data-fragment-index="4"-->
 
 Slide:
 
