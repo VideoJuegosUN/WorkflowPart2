@@ -14,9 +14,9 @@
 	</p>
 </section>
 
-Slide:
+Slide:   
 
-# Workflow Part 2    
+# Workflow Part 2       
 
 <font size=5>Apuntes de la clase del profesor John Higuera del 24 de febrero de 2015</font> 
 
